@@ -1,7 +1,4 @@
 {
-  "name": "propertycare",
-  "version": "0.1.0",
-  "private": true,
   "dependencies": {
     "@supabase/supabase-js": "^2.38.4",
     "lucide-react": "^0.263.1",
@@ -14,10 +11,13 @@
     "postcss": "^8.4.0",
     "autoprefixer": "^10.4.0"
   },
+  "name": "propertycare",
+  "private": true,
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
-  }
+  },
+  "version": "0.1.0"
 }
